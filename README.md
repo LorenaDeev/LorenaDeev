@@ -6,5 +6,5 @@ Interested in the intersection of **Human-Computer Interaction (HCI)**, **develo
 
 - Currently learning: **C**, **OCaml**, **Python**, **Linear Algebra** and **Calculus**.
 - Based in: **Grenoble, France**.
-- Aiming for: **Developer Advocacy** / **UX Research**.
+
 
